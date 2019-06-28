@@ -1,0 +1,17 @@
+.rj-charcounter-container {
+    position: relative;
+}
+
+.rj-charcounter-container input {
+    width: 100%;
+    border: 1px solid #e9ecef;
+}
+
+.rj-counter-box {
+    font-size: 12px;
+    display: inline-block;
+    padding: 2px 5px;
+    background-color: #e9ecef;
+    position: relative;
+    top: -1px;
+}
