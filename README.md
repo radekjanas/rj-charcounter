@@ -3,6 +3,9 @@
 rj-charcounter displays dynamically how many characters are in `<input>/<textarea>` element. It also shows max amount of characters allowed in element. Counter works on basis of "maxlength" attribute placed in `<input>/<textarea>` element.
 This plugin has been created for one of my commercial projects.
 
+## Screenshot - example of use
+![Example counter](./screenshot.png)
+
 ## How to use
 
 1. Upload CSS and JS files to your project
